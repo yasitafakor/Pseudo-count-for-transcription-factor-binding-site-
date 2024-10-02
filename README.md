@@ -1,7 +1,7 @@
 # Optimal Pseudo Counts for Transcription Factor Binding Sites
 
 ## Overview
-This project investigates the optimal pseudo counts for transcription factor binding sites using a Python implementation based on the findings from the paper [“Title of the Paper”](https://pubmed.ncbi.nlm.nih.gov/19106141/). The aim is to enhance the representation of binding sites by evaluating how pseudo counts impact the artificial datasets derived from the JASPAR database.
+This project investigates the optimal pseudo counts for transcription factor binding sites using a Python implementation based on the findings from the paper [“Pseudocounts for transcription factor binding sites”](https://pubmed.ncbi.nlm.nih.gov/19106141/). The aim is to enhance the representation of binding sites by evaluating how pseudo counts impact the artificial datasets derived from the JASPAR database.
 
 ## Table of Contents
 - [Methodology](#methodology)
